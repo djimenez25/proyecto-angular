@@ -1,0 +1,27 @@
+nav {
+  ul {
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    a {
+      text-transform: uppercase;
+      font-weight: bold;
+      transition: all 0.3s;
+
+      &:hover {
+        color: #f62404;
+      }
+    }
+
+    img {
+      height: 20px;
+      width: auto;
+      cursor: pointer;
+      &:hover {
+        transform: scale(1.2);
+      }
+    }
+  }
+}

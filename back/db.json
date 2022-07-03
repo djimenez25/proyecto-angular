@@ -1,0 +1,74 @@
+{
+  "Escuderias": [
+    {
+      "name": "Mercedes",
+      "pilots": "George Russell y Lewis Hamilton",
+      "car": "https://www.f1aldia.com/galeria/33800/33822_vista-lateral-delantera-w12.jpg",
+      "country": "Alemania",
+      "id": 1
+    },
+    {
+      "name": "Red Bull",
+      "pilots": "Max Verstappen y Sergio Pérez",
+      "car": "https://www.f1aldia.com/galeria/33800/33852_vista-lateral-del-rb-18.jpg",
+      "country": "Austria",
+      "id": 2
+    },
+    {
+      "name": "Ferrari",
+      "pilots": "Charles Leclerc y carlos Sainz",
+      "car": "https://www.f1aldia.com/galeria/33800/33874_vistalateral-alternativa-del-f1-75.jpg",
+      "country": "Italia",
+      "id": 3
+    },
+    {
+      "name": "McLaren",
+      "pilots": "Lando Norris y Daniel Ricciardo",
+      "car": "https://www.f1aldia.com/galeria/33800/33809_vista-lateral-delantera-mcl35m.jpg",
+      "country": "Reino Unido",
+      "id": 4
+    },
+    {
+      "name": "Alpine",
+      "pilots": "Fernando Alonso y Esteban Ocon",
+      "car": "https://www.f1aldia.com/galeria/33800/33880_vista-lateral-delantera-alternativa-del-a522.jpg",
+      "country": "Francia",
+      "id": 5
+    },
+    {
+      "name": "Alpha Tauri",
+      "pilots": "Pierre Gasly y Yuki Tsunoda",
+      "car": "https://www.f1aldia.com/galeria/33800/33811_vista-lateral-delantera-del-at02.jpg",
+      "country": "Italia",
+      "id": 6
+    },
+    {
+      "name": "Aston Martin",
+      "pilots": "Sebastian Vettel y Lance Stroll",
+      "car": "https://www.f1aldia.com/galeria/33800/33859_imagenes-amr22.jpg",
+      "country": "Reino Unido",
+      "id": 7
+    },
+    {
+      "name": "Williams",
+      "pilots": "Alexander Albon y Nicholas Latifi",
+      "car": "https://www.f1aldia.com/galeria/33800/33870_vista-lateral-fw44.jpg",
+      "country": "Reino Unido",
+      "id": 8
+    },
+    {
+      "name": "Alfa Romeo",
+      "pilots": "Valtteri Bottas y Guanyu Zhou",
+      "car": "https://www.f1aldia.com/galeria/33800/33885_vista-lateral-elantera-del-c42.jpg",
+      "country": "Suiza",
+      "id": 9
+    },
+    {
+      "name": "Haas",
+      "pilots": "Mick Schumacher y Kevin Magnussen",
+      "car": "https://www.f1aldia.com/galeria/33800/33849_vista-lateral-del-vf22.jpg",
+      "country": "EE.UU",
+      "id": 10
+    }
+  ]
+}

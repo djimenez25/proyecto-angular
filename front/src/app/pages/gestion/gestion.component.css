@@ -1,0 +1,80 @@
+section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 40px;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 2.6rem;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  color: #ff1e00;
+}
+
+section form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 20px;
+  text-align: center;
+  padding: 30px;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 0.075);
+}
+
+section label {
+  font-size: 1.4rem;
+  font-weight: bolder;
+  color: white;
+  border-bottom: 2px solid #1b76d1;
+}
+
+section input {
+  padding: 0.4rem 1rem;
+  margin: 0.5rem 0;
+  border: 2px solid rgba(0, 0, 0, 0.669);
+  border-radius: 10px;
+  color: black;
+  font-size: 1rem;
+}
+
+section button {
+  text-decoration: none;
+  text-align: center;
+  padding: 11px 32px;
+  border: solid 1px #005072;
+  border-radius: 20px;
+  font: 13px Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  color: white;
+  background-color: #1b76d1;
+  cursor: pointer;
+}
+
+section button:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+/*# sourceMappingURL=gestion.component.css.map */

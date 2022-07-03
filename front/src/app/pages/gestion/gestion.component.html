@@ -1,0 +1,17 @@
+<section>
+    <h2>Gestion</h2>
+    <form novalidate [formGroup]="escuderiaForm" (ngSubmit)="onSubmit()">
+        <label for="name">Nombre</label>
+        <input type="text" id="name" formControlName="name">
+        <label for="pilots">Pilotos</label>
+        <input type="text" id="pilots" formControlName="pilots">
+        <label for="car">Coche</label>
+        <input type="text" id="car" formControlName="car">
+        <label for="country">País</label>
+        <input type="text" id="country" formControlName="country">
+
+        <button type="submit">Enviar</button>
+        <button type="button" *ngIf="escuderiaID !== ''" (click)="delete()">Eliminar</button>
+
+    </form>
+</section>

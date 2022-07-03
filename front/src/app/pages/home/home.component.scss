@@ -1,0 +1,17 @@
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  color: #ff1e00;
+
+  img {
+    height: auto;
+    width: 99%;
+  }
+}

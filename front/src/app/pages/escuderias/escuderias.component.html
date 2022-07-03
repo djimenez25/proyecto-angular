@@ -1,0 +1,12 @@
+<section>
+  <h2>Escuderias F1</h2>
+  <div>
+    <figure *ngFor="let escuderia of escuderiaList">
+      <h3>{{ escuderia.name }}</h3>
+      <h4>{{ escuderia.pilots }}</h4>
+      <img src="{{ escuderia.car }}" alt="{{ escuderia.name }}" />
+      <p>{{ escuderia.country }}</p>
+      <button (click)="catchEscuderia(escuderia)">Editar</button>
+    </figure>
+  </div>
+</section>
